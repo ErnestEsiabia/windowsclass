@@ -1,0 +1,1 @@
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\Windows calculator\Windows Calculator\WindowsPhoneCalculator.csproj;neutral
